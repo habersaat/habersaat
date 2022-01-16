@@ -5,9 +5,11 @@
 
 - :seedling: I’m currently learning **Flutter app development and various frontend frameworks**
 
-- :speech_balloon: Ask me about **react, python, ui/ux design, and anything related to blockchain**
+- :speech_balloon: Ask me about **react, python, ui/ux design, and anything remotely related to blockchain**
 
 - :mailbox: How to reach me: **hunterhabersaat@gmail.com**
+
+- ✨ I'm always looking for projects to work on. Feel free to reach out.
 
 - :zap: Fun fact: **I play music in a rock band!**
 
