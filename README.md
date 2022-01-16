@@ -7,11 +7,11 @@
 
 - :speech_balloon: Ask me about **react, python, ui/ux design, algorithmic trading, and anything remotely related to blockchain**
 
-- 🏫 Currently a high school student. Looking to puruse a double major in Computer Science and Linguistics
+- 🏫 Currently a high school student. Looking to puruse a double major in **Computer Science** and **Linguistics**
 
 - :mailbox: How to reach me: **hunterhabersaat@gmail.com**
 
-- ✨ I'm always looking for projects to work on. Feel free to reach out
+- ✨ I'm always looking for **projects** to work on. Feel free to reach out
 
 - :zap: Fun fact: **I play music in a rock band!**
 
