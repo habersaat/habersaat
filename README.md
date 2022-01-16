@@ -9,7 +9,7 @@
 
 - :mailbox: How to reach me **hunterhabersaat@gmail.com**
 
-- :zap: Fun fact **I play music in a rock band!**
+- :zap: Fun fact: **I play music in a rock band!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
