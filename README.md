@@ -7,7 +7,7 @@
 
 - :speech_balloon: Ask me about **react, python, ui/ux design, and anything related to blockchain**
 
-- :mailbox: How to reach me **hunterhabersaat@gmail.com**
+- :mailbox: How to reach me: **hunterhabersaat@gmail.com**
 
 - :zap: Fun fact: **I play music in a rock band!**
 
