@@ -7,7 +7,7 @@
 
 - :speech_balloon: Ask me about **react, python, ui/ux design, algorithmic trading, and anything remotely related to blockchain**
 
-- 🏫 Currently a high school student looking to pursue a double major in **Computer Science** and **Linguistics**
+- 🏫 Currently pursuing a double major in **Computer Science** and **Linguistics** at **Duke University**
 
 - :mailbox: How to reach me: **hunterhabersaat@gmail.com**
 
