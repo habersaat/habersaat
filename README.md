@@ -1,7 +1,7 @@
 <h1 align="center">Hi :wave:, I'm Hunter</h1>
 <h3 align="center">17 y/o Full-Stack Developer and Entrepreneur from the United States</h3>
 
-- :telescope: I’m currently working on **Habit Cash - A cryptocurrency-based social studying app**
+- :telescope: I’m currently working on software for **Teen Hustl - A social delivery service centered around the teen gig economy**
 
 - :seedling: I’m currently learning **Flutter app development and various frontend frameworks**
 
