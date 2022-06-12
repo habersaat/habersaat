@@ -5,7 +5,7 @@
 
 - :seedling: I’m currently learning **Flutter app development and various frontend frameworks**
 
-- :speech_balloon: Ask me about **react, python, ui/ux design, algorithmic trading, and anything remotely related to blockchain**
+- :speech_balloon: Ask me about **react, python, ui/ux design, algorithmic trading, and blockchain**
 
 - 🏫 Currently pursuing a double major in **Computer Science** and **Mathematics** at **Duke University**
 
