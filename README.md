@@ -9,7 +9,7 @@
 
 - 🏫 Currently pursuing a double major in **Computer Science** and **Mathematics** at **Duke University**
 
-- :mailbox: How to reach me: **hunterhabersaat@gmail.com**
+- :mailbox: How to reach me: **hunter.habersaat@duke.edu**
 
 - ✨ I'm always looking for **projects** to work on. Feel free to reach out
 
