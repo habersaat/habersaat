@@ -1,5 +1,5 @@
 <h1 align="center">Hi :wave:, I'm Hunter</h1>
-<h3 align="center">17 y/o Full-Stack Developer and Entrepreneur from the United States</h3>
+<h3 align="center">18 y/o Full-Stack Developer and Entrepreneur from the United States</h3>
 
 - :telescope: I’m currently working on software for **Teen Hustl - A social delivery service centered around the teen gig economy**
 
