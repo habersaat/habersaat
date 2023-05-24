@@ -3,4 +3,4 @@ Pursuing a double major in **Computer Science** and **Mathematics** at **Duke Un
 Experience in Python, Java, JavaScript/TypeScript, C, C#, SQL, R, Ruby/Ruby on Rails
 Jupyter, Selenium, TensorFlow, Pandas, Git, Metabase, dbt, MySQL, React, JQuery, Three.js
 
-Reach me at **hunter.habersaat@duke.edu**
+Feel free to reach me at **hunter.habersaat@duke.edu**
