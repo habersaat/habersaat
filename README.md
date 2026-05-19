@@ -1,3 +1,3 @@
-CS Student at Duke University
+B.S. & M.S. graduate from Duke University
 
-Feel free to reach me at **hunter.habersaat@duke.edu**
+Feel free to reach me at **hunterhabersaat@gmail.com**
